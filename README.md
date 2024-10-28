@@ -18,6 +18,8 @@ A Python project for checking the strength of passwords and comparing them again
 - Python
 - Git & GitHub
 - Markdown
+- HTML
+- CSS
 
 ## Contact
 - **GitHub**: [github.com/D-Sanchez23](https://github.com/D-Sanchez23)
