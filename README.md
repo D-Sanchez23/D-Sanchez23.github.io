@@ -23,5 +23,5 @@ A Python project for checking the strength of passwords and comparing them again
 
 ## Contact
 - **GitHub**: [github.com/D-Sanchez23](https://github.com/D-Sanchez23)
-- **LinkedIn**: [linkedin.com/in/d-sanchez](https://linkedin.com/in/d-sanchez)
+- **LinkedIn**: [linkedin.com/in/sanchez-dante](https://linkedin.com/in/sanchez-dante)
 - **Email**: dsanchez199823@yahoo.com
