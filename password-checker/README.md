@@ -15,8 +15,7 @@ This project is a Python-based password strength checker that evaluates the secu
 The password checker analyzes the following criteria:
 - **Length**: Minimum of 8 characters is recommended.
 - **Character Variety**: Evaluates the use of uppercase letters, lowercase letters, numbers, and special characters.
-- **Common Password Patterns**: Identifies if the password uses commonly known weak patterns like "123456" or "password."
-- **Breach Comparison**: Uses an API or dataset to compare the password against known breaches.
+- **Breach Comparison**: Uses Have I Been Pwned API to compare the password against known breaches by sending a hash prefix of the password, which enhances privacy.
 
 ## Usage
 
